@@ -2,3 +2,8 @@
 在anaconda中新建一个虚拟环境，python版本3.6.13 django版本1.11.7
 
 2.配置本地local_settings.py 并添加在settings.py中
+
+3.编写.gitgnore文件
+
+4.用git上传所有代码
+
